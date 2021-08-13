@@ -1,0 +1,11 @@
+{
+  "name": "simple-web-crawler",
+  "version": "0.0.0",
+  "main": "crawler.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.65.0",
+    "url-parse": "^1.0.5",
+    "valid-url": "^1.0.9"
+  }
+}
