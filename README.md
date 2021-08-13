@@ -1,1 +1,1 @@
-# web-crawler
+# simple web-crawler app
